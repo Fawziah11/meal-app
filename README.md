@@ -1,6 +1,7 @@
 # meal_app
 
-A new Flutter project.
+A meal app is an app that has different categories of meals. Every meal is displayed with its ingredients, steps, Affordability, complexity, and total time taken to be ready.
+
 
 ## Getting Started
 
