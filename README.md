@@ -10,3 +10,6 @@ A meal app is an app that has different categories of meals. Every meal is displ
 - remove the meal from the favorite list at any time the user wants.
 
 
+## ScreenShots
+
+<img width="496" alt="meal-app pic1" src="https://user-images.githubusercontent.com/106339248/172024801-f219f52c-6627-4ea9-963f-d373368cafcf.png">
